@@ -1,4 +1,5 @@
-#### 2018-04-24 [Hidden Gems Don't Exist](https://github.com/adonaac/blog/issues/36)
+#### 2018-04-27 [Luck Isn't Real](https://github.com/adonaac/blog/issues/38)
+#### 2018-04-24 [Hidden Gems Don't Exist](https://github.com/adonaac/blog/issues/37)
 #### 2018-04-14 [BYTEPATH Postmortem](https://github.com/adonaac/blog/issues/35)
 #### 2018-02-24 [Programming lessons learned from making my first game and why I'm writing my own engine in 2018](https://github.com/SSYGEN/blog/issues/31)
 #### 2018-02-14 [BYTEPATH #0 - Introduction](https://github.com/adonaac/blog/issues/30)
